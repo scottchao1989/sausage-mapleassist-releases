@@ -1,2 +1,5 @@
-# sausage-mapleassist-releases
-Signed-integrity Windows update channel for Sausage MapleAssist
+# 香肠冒险岛 · Windows 更新
+
+在 Releases 下载 `SausageMapleAssist.exe`。已有安装请把它放到原来的辅助目录，从该目录打开。后续可在软件的「设置 → 软件更新」点击「检查并更新」。
+
+按键、校准坐标和离线图鉴从本机目录读取。
